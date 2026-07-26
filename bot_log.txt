@@ -336,3 +336,5 @@ HOLD: drzime do expirace, roll neprosel hurdle
 Ucet: 10,008.56 USD (nasazeno 5,000, rezerva 5,008) | spot 64,633 | T-bill 4.30 %
 HOLD: drzime do expirace, roll neprosel hurdle
 Ucet: 10,008.60 USD (nasazeno 5,000, rezerva 5,008) | spot 64,672 | T-bill 4.30 %
+HOLD: drzime do expirace, roll neprosel hurdle
+Ucet: 10,008.63 USD (nasazeno 5,000, rezerva 5,008) | spot 64,617 | T-bill 4.30 %
