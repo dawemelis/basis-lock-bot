@@ -432,3 +432,5 @@ CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
 Ucet: 10,043.24 USD (nasazeno 0, rezerva 10,043) | spot 63,661 | T-bill 4.30 %
 CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
 Ucet: 10,043.39 USD (nasazeno 0, rezerva 10,043) | spot 62,494 | T-bill 4.30 %
+CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
+Ucet: 10,043.51 USD (nasazeno 0, rezerva 10,044) | spot 63,174 | T-bill 4.30 %
