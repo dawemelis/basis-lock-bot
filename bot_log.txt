@@ -460,3 +460,5 @@ ENTER BTC_20260828.CME: notional 5,022 USD, lock 0.64 % za 26 dni (8.93 % rocne,
 Ucet: 10,044.71 USD (nasazeno 5,022, rezerva 5,022) | spot 62,665 | T-bill 4.30 %
 HOLD: zisk uzamcen pri vstupu, drzime
 Ucet: 10,044.75 USD (nasazeno 5,022, rezerva 5,022) | spot 62,457 | T-bill 4.30 %
+HOLD: zisk uzamcen pri vstupu, drzime
+Ucet: 10,044.78 USD (nasazeno 5,022, rezerva 5,022) | spot 62,710 | T-bill 4.30 %
