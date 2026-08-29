@@ -1376,3 +1376,5 @@ SETTLE BTC_20260828.CME: realizovano 31.96 USD (konvergence)
 Ucet: 10,092.69 USD (nasazeno 0, rezerva 10,093) | spot 77,444 | T-bill 4.30 %
 CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
 Ucet: 10,093.06 USD (nasazeno 0, rezerva 10,093) | spot 77,784 | T-bill 4.30 %
+CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
+Ucet: 10,093.40 USD (nasazeno 0, rezerva 10,093) | spot 77,676 | T-bill 4.30 %
