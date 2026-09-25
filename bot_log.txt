@@ -1692,3 +1692,5 @@ HOLD: drzime do expirace, roll neprosel hurdle
 Ucet: 10,110.40 USD (nasazeno 5,048, rezerva 5,063) | spot 84,004 | T-bill 4.30 %
 SETTLE BTC_20260925.CME: realizovano 40.35 USD (konvergence)
 Ucet: 10,150.90 USD (nasazeno 0, rezerva 10,151) | spot 83,817 | T-bill 4.30 %
+CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
+Ucet: 10,151.13 USD (nasazeno 0, rezerva 10,151) | spot 83,910 | T-bill 4.30 %
