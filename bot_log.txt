@@ -1968,3 +1968,5 @@ HOLD: zisk uzamcen pri vstupu, drzime
 Ucet: 10,170.36 USD (nasazeno 5,078, rezerva 5,093) | spot 80,805 | T-bill 4.30 %
 HOLD: drzime do expirace, roll neprosel hurdle
 Ucet: 10,170.50 USD (nasazeno 5,078, rezerva 5,093) | spot 80,664 | T-bill 4.30 %
+HOLD: drzime do expirace, roll neprosel hurdle
+Ucet: 10,170.59 USD (nasazeno 5,078, rezerva 5,093) | spot 79,582 | T-bill 4.30 %
