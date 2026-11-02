@@ -2050,3 +2050,5 @@ CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
 Ucet: 10,204.67 USD (nasazeno 0, rezerva 10,205) | spot 78,100 | T-bill 4.30 %
 CASH: zadny kontrakt nad hurdle -> jsme T-bill portfolio
 Ucet: 10,205.00 USD (nasazeno 0, rezerva 10,205) | spot 78,251 | T-bill 4.30 %
+ENTER BTC_20261127.CME: notional 5,103 USD, lock 0.73 % za 24 dni (11.13 % rocne, hurdle 6.30 %)
+Ucet: 10,205.49 USD (nasazeno 5,103, rezerva 5,103) | spot 77,252 | T-bill 4.30 %
