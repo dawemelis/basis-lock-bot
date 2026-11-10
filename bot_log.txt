@@ -2104,3 +2104,5 @@ HOLD: zisk uzamcen pri vstupu, drzime
 Ucet: 10,209.47 USD (nasazeno 5,103, rezerva 5,107) | spot 74,207 | T-bill 4.30 %
 HOLD: zisk uzamcen pri vstupu, drzime
 Ucet: 10,209.74 USD (nasazeno 5,103, rezerva 5,107) | spot 74,724 | T-bill 4.30 %
+HOLD: zisk uzamcen pri vstupu, drzime
+Ucet: 10,209.94 USD (nasazeno 5,103, rezerva 5,107) | spot 74,910 | T-bill 4.30 %
